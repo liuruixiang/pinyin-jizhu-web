@@ -1,0 +1,322 @@
+{
+  "version": "unihan-15.1.0-cedict-2026-11-11-v1",
+  "builtOn": "2026-11-11",
+  "stats": {
+    "sourceCharacters": 8105,
+    "totalCharacters": 3125,
+    "totalReadings": 3215,
+    "regularCharacters": 3124,
+    "regularReadings": 3213,
+    "specialReadings": 2,
+    "practiceReady": 3169,
+    "pendingContext": 46,
+    "level1Characters": 1376,
+    "level1Readings": 1429,
+    "level1Ready": 1420,
+    "level1Pending": 10,
+    "withExamples": 2333
+  },
+  "unicode": {
+    "version": "15.1.0",
+    "url": "https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip",
+    "sha256": "a0226610e324bcf784ac380e11f4cbf533ee1e6b3d028b0991bf8c0dc3f85853",
+    "fields": [
+      "kTGH",
+      "kTGHZ2013"
+    ],
+    "documentation": "https://www.unicode.org/reports/tr38/tr38-34.html",
+    "license": "Unicode Data Files and Software License",
+    "licenseUrl": "https://www.unicode.org/license.txt"
+  },
+  "contexts": {
+    "source": "CC-CEDICT",
+    "version": "2026-11-11T02:50:39Z",
+    "license": "CC-BY-SA-4.0",
+    "sourceUrl": "https://www.mdbg.net/chinese/dictionary?page=cedict",
+    "downloadUrl": "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+    "archiveSha256": "c4450a361f0659bb1bf152577d07cc45f65dc280616b68b23bafc6fec817155b",
+    "selectionRule": "2-4 Han characters, one syllable per character, every dictionary entry agrees on target spelling; no invented contexts; preferred list first, then ordinary words before proper names, then common-level short dictionary words; at most two variants per reading."
+  },
+  "lexiconSha256": "8588304ef9347635264f4d3b84da0e500416b1c7733bde78adf373fdf72d3069",
+  "countsMatchReference": true,
+  "specialNote": "哼 hng、嗯 ng 另计 2 条，保留但暂不参加单答案练习。常规 3213 条加特殊 2 条，合计 3215 条。",
+  "verificationNote": "verified 表示来源字段与词典读音的一致性校验，不表示语言学专家对每条例词完成审定。",
+  "pending": [
+    {
+      "id": "u625b-gang",
+      "hanzi": "扛",
+      "pinyin": "gang",
+      "level": 1
+    },
+    {
+      "id": "u5458-yun",
+      "hanzi": "员",
+      "pinyin": "yun",
+      "level": 1
+    },
+    {
+      "id": "u56e4-dun",
+      "hanzi": "囤",
+      "pinyin": "dun",
+      "level": 1
+    },
+    {
+      "id": "u5238-xuan",
+      "hanzi": "券",
+      "pinyin": "xuan",
+      "level": 1
+    },
+    {
+      "id": "u5df7-hang",
+      "hanzi": "巷",
+      "pinyin": "hang",
+      "level": 1
+    },
+    {
+      "id": "u8679-jiang",
+      "hanzi": "虹",
+      "pinyin": "jiang",
+      "level": 1
+    },
+    {
+      "id": "u79cd-chong",
+      "hanzi": "种",
+      "pinyin": "chong",
+      "level": 1
+    },
+    {
+      "id": "u54fc-hng",
+      "hanzi": "哼",
+      "pinyin": "hng",
+      "level": 1
+    },
+    {
+      "id": "u7efc-zeng",
+      "hanzi": "综",
+      "pinyin": "zeng",
+      "level": 1
+    },
+    {
+      "id": "u5e62-zhuang",
+      "hanzi": "幢",
+      "pinyin": "zhuang",
+      "level": 1
+    },
+    {
+      "id": "u6c8c-zhuan",
+      "hanzi": "沌",
+      "pinyin": "zhuan",
+      "level": 2
+    },
+    {
+      "id": "u7eb6-guan",
+      "hanzi": "纶",
+      "pinyin": "guan",
+      "level": 2
+    },
+    {
+      "id": "u73a2-bin",
+      "hanzi": "玢",
+      "pinyin": "bin",
+      "level": 2
+    },
+    {
+      "id": "u7085-jiong",
+      "hanzi": "炅",
+      "pinyin": "jiong",
+      "level": 2
+    },
+    {
+      "id": "u90c7-huan",
+      "hanzi": "郇",
+      "pinyin": "huan",
+      "level": 2
+    },
+    {
+      "id": "u90c7-xun",
+      "hanzi": "郇",
+      "pinyin": "xun",
+      "level": 2
+    },
+    {
+      "id": "u578c-dong",
+      "hanzi": "垌",
+      "pinyin": "dong",
+      "level": 2
+    },
+    {
+      "id": "u578c-tong",
+      "hanzi": "垌",
+      "pinyin": "tong",
+      "level": 2
+    },
+    {
+      "id": "u83a8-liang",
+      "hanzi": "莨",
+      "pinyin": "liang",
+      "level": 2
+    },
+    {
+      "id": "u5958-zhuang",
+      "hanzi": "奘",
+      "pinyin": "zhuang",
+      "level": 2
+    },
+    {
+      "id": "u845a-ren",
+      "hanzi": "葚",
+      "pinyin": "ren",
+      "level": 2
+    },
+    {
+      "id": "u5581-yong",
+      "hanzi": "喁",
+      "pinyin": "yong",
+      "level": 2
+    },
+    {
+      "id": "u55ef-ng",
+      "hanzi": "嗯",
+      "pinyin": "ng",
+      "level": 2
+    },
+    {
+      "id": "u7b60-yun",
+      "hanzi": "筠",
+      "pinyin": "yun",
+      "level": 2
+    },
+    {
+      "id": "u614a-qian",
+      "hanzi": "慊",
+      "pinyin": "qian",
+      "level": 2
+    },
+    {
+      "id": "u7cc1-shen",
+      "hanzi": "糁",
+      "pinyin": "shen",
+      "level": 2
+    },
+    {
+      "id": "u571c-yuan",
+      "hanzi": "圜",
+      "pinyin": "yuan",
+      "level": 2
+    },
+    {
+      "id": "u9e87-jun",
+      "hanzi": "麇",
+      "pinyin": "jun",
+      "level": 2
+    },
+    {
+      "id": "u6fb9-dan",
+      "hanzi": "澹",
+      "pinyin": "dan",
+      "level": 2
+    },
+    {
+      "id": "u6fb9-tan",
+      "hanzi": "澹",
+      "pinyin": "tan",
+      "level": 2
+    },
+    {
+      "id": "u9561-chan",
+      "hanzi": "镡",
+      "pinyin": "chan",
+      "level": 2
+    },
+    {
+      "id": "u9561-tan",
+      "hanzi": "镡",
+      "pinyin": "tan",
+      "level": 2
+    },
+    {
+      "id": "u6206-gang",
+      "hanzi": "戆",
+      "pinyin": "gang",
+      "level": 2
+    },
+    {
+      "id": "u6206-zhuang",
+      "hanzi": "戆",
+      "pinyin": "zhuang",
+      "level": 2
+    },
+    {
+      "id": "u72b4-han",
+      "hanzi": "犴",
+      "pinyin": "han",
+      "level": 3
+    },
+    {
+      "id": "u8677-gan",
+      "hanzi": "虷",
+      "pinyin": "gan",
+      "level": 3
+    },
+    {
+      "id": "u8677-han",
+      "hanzi": "虷",
+      "pinyin": "han",
+      "level": 3
+    },
+    {
+      "id": "u6d70-lian",
+      "hanzi": "浰",
+      "pinyin": "lian",
+      "level": 3
+    },
+    {
+      "id": "u68a3-qin",
+      "hanzi": "梣",
+      "pinyin": "qin",
+      "level": 3
+    },
+    {
+      "id": "u8470-jun",
+      "hanzi": "葰",
+      "pinyin": "jun",
+      "level": 3
+    },
+    {
+      "id": "u68fd-chen",
+      "hanzi": "棽",
+      "pinyin": "chen",
+      "level": 3
+    },
+    {
+      "id": "u68fd-shen",
+      "hanzi": "棽",
+      "pinyin": "shen",
+      "level": 3
+    },
+    {
+      "id": "u6412-bang",
+      "hanzi": "搒",
+      "pinyin": "bang",
+      "level": 3
+    },
+    {
+      "id": "u6412-peng",
+      "hanzi": "搒",
+      "pinyin": "peng",
+      "level": 3
+    },
+    {
+      "id": "u6f34-chong",
+      "hanzi": "漴",
+      "pinyin": "chong",
+      "level": 3
+    },
+    {
+      "id": "u6f34-shuang",
+      "hanzi": "漴",
+      "pinyin": "shuang",
+      "level": 3
+    }
+  ]
+}

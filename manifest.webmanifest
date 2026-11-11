@@ -1,0 +1,33 @@
+{
+  "id": "/pinyin-jizhu-web/",
+  "name": "拼音记住",
+  "short_name": "拼音记住",
+  "description": "看见汉字，记住拼音。支持离线的个人拼音记忆工具。",
+  "lang": "zh-Hans",
+  "start_url": "/pinyin-jizhu-web/",
+  "scope": "/pinyin-jizhu-web/",
+  "display": "standalone",
+  "background_color": "#f7f5ee",
+  "theme_color": "#334738",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pinyin-jizhu-web/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pinyin-jizhu-web/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pinyin-jizhu-web/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
